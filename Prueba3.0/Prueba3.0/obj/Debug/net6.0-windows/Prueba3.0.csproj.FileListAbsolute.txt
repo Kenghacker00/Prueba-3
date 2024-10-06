@@ -1,0 +1,66 @@
+C:\Users\Sistemas2-7\Documents\Visual Studio 2022\Archivos\Prueba3.0\Prueba3.0\bin\Debug\net6.0-windows\Prueba3.0.exe
+C:\Users\Sistemas2-7\Documents\Visual Studio 2022\Archivos\Prueba3.0\Prueba3.0\bin\Debug\net6.0-windows\Prueba3.0.deps.json
+C:\Users\Sistemas2-7\Documents\Visual Studio 2022\Archivos\Prueba3.0\Prueba3.0\bin\Debug\net6.0-windows\Prueba3.0.runtimeconfig.json
+C:\Users\Sistemas2-7\Documents\Visual Studio 2022\Archivos\Prueba3.0\Prueba3.0\bin\Debug\net6.0-windows\Prueba3.0.dll
+C:\Users\Sistemas2-7\Documents\Visual Studio 2022\Archivos\Prueba3.0\Prueba3.0\bin\Debug\net6.0-windows\Prueba3.0.pdb
+C:\Users\Sistemas2-7\Documents\Visual Studio 2022\Archivos\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3.0.csproj.AssemblyReference.cache
+C:\Users\Sistemas2-7\Documents\Visual Studio 2022\Archivos\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3._0.Form1.resources
+C:\Users\Sistemas2-7\Documents\Visual Studio 2022\Archivos\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3._0.Form2.resources
+C:\Users\Sistemas2-7\Documents\Visual Studio 2022\Archivos\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3.0.csproj.GenerateResource.cache
+C:\Users\Sistemas2-7\Documents\Visual Studio 2022\Archivos\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sistemas2-7\Documents\Visual Studio 2022\Archivos\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3.0.AssemblyInfoInputs.cache
+C:\Users\Sistemas2-7\Documents\Visual Studio 2022\Archivos\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3.0.AssemblyInfo.cs
+C:\Users\Sistemas2-7\Documents\Visual Studio 2022\Archivos\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3.0.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas2-7\Documents\Visual Studio 2022\Archivos\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3.0.dll
+C:\Users\Sistemas2-7\Documents\Visual Studio 2022\Archivos\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\refint\Prueba3.0.dll
+C:\Users\Sistemas2-7\Documents\Visual Studio 2022\Archivos\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3.0.pdb
+C:\Users\Sistemas2-7\Documents\Visual Studio 2022\Archivos\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3.0.genruntimeconfig.cache
+C:\Users\Sistemas2-7\Documents\Visual Studio 2022\Archivos\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\ref\Prueba3.0.dll
+C:\Users\Sistemas2-7\Documents\Visual Studio 2022\Archivos\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3._0.Form3.resources
+C:\Users\Sistemas2-7\Documents\Visual Studio 2022\Archivos\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3._0.Form4.resources
+C:\Users\Sistemas2-7\Documents\Visual Studio 2022\Archivos\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3._0.Form5.resources
+C:\Users\Sistemas2-7\Documents\Visual Studio 2022\Archivos\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3._0.Form6.resources
+C:\Users\hfgon\OneDrive\Desktop\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3.0.dll
+C:\Users\hfgon\OneDrive\Desktop\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\refint\Prueba3.0.dll
+C:\Users\hfgon\OneDrive\Desktop\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3.0.pdb
+C:\Users\hfgon\OneDrive\Desktop\Prueba3.0\Prueba3.0\Prueba3.0\bin\Debug\net6.0-windows\Prueba3.0.exe
+C:\Users\hfgon\OneDrive\Desktop\Prueba3.0\Prueba3.0\Prueba3.0\bin\Debug\net6.0-windows\Prueba3.0.deps.json
+C:\Users\hfgon\OneDrive\Desktop\Prueba3.0\Prueba3.0\Prueba3.0\bin\Debug\net6.0-windows\Prueba3.0.runtimeconfig.json
+C:\Users\hfgon\OneDrive\Desktop\Prueba3.0\Prueba3.0\Prueba3.0\bin\Debug\net6.0-windows\Prueba3.0.dll
+C:\Users\hfgon\OneDrive\Desktop\Prueba3.0\Prueba3.0\Prueba3.0\bin\Debug\net6.0-windows\Prueba3.0.pdb
+C:\Users\hfgon\OneDrive\Desktop\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3._0.Form1.resources
+C:\Users\hfgon\OneDrive\Desktop\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3._0.Form2.resources
+C:\Users\hfgon\OneDrive\Desktop\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3._0.Form3.resources
+C:\Users\hfgon\OneDrive\Desktop\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3._0.Form4.resources
+C:\Users\hfgon\OneDrive\Desktop\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3._0.Form5.resources
+C:\Users\hfgon\OneDrive\Desktop\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3._0.Form6.resources
+C:\Users\hfgon\OneDrive\Desktop\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3.0.csproj.GenerateResource.cache
+C:\Users\hfgon\OneDrive\Desktop\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hfgon\OneDrive\Desktop\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3.0.AssemblyInfoInputs.cache
+C:\Users\hfgon\OneDrive\Desktop\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3.0.AssemblyInfo.cs
+C:\Users\hfgon\OneDrive\Desktop\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3.0.csproj.CoreCompileInputs.cache
+C:\Users\hfgon\OneDrive\Desktop\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3.0.genruntimeconfig.cache
+C:\Users\hfgon\OneDrive\Desktop\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\ref\Prueba3.0.dll
+C:\Users\hfgon\OneDrive\Desktop\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3._0.Properties.Resources.resources
+C:\Users\hfgon\Downloads\Prueba3.0\Prueba3.0\Prueba3.0\bin\Debug\net6.0-windows\Prueba3.0.exe
+C:\Users\hfgon\Downloads\Prueba3.0\Prueba3.0\Prueba3.0\bin\Debug\net6.0-windows\Prueba3.0.deps.json
+C:\Users\hfgon\Downloads\Prueba3.0\Prueba3.0\Prueba3.0\bin\Debug\net6.0-windows\Prueba3.0.runtimeconfig.json
+C:\Users\hfgon\Downloads\Prueba3.0\Prueba3.0\Prueba3.0\bin\Debug\net6.0-windows\Prueba3.0.dll
+C:\Users\hfgon\Downloads\Prueba3.0\Prueba3.0\Prueba3.0\bin\Debug\net6.0-windows\Prueba3.0.pdb
+C:\Users\hfgon\Downloads\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3._0.Form1.resources
+C:\Users\hfgon\Downloads\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3._0.Form2.resources
+C:\Users\hfgon\Downloads\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3._0.Form3.resources
+C:\Users\hfgon\Downloads\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3._0.Moneda.resources
+C:\Users\hfgon\Downloads\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3._0.Form5.resources
+C:\Users\hfgon\Downloads\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3._0.Form6.resources
+C:\Users\hfgon\Downloads\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3._0.Properties.Resources.resources
+C:\Users\hfgon\Downloads\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3.0.csproj.GenerateResource.cache
+C:\Users\hfgon\Downloads\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hfgon\Downloads\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3.0.AssemblyInfoInputs.cache
+C:\Users\hfgon\Downloads\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3.0.AssemblyInfo.cs
+C:\Users\hfgon\Downloads\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3.0.csproj.CoreCompileInputs.cache
+C:\Users\hfgon\Downloads\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3.0.dll
+C:\Users\hfgon\Downloads\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\refint\Prueba3.0.dll
+C:\Users\hfgon\Downloads\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3.0.pdb
+C:\Users\hfgon\Downloads\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\Prueba3.0.genruntimeconfig.cache
+C:\Users\hfgon\Downloads\Prueba3.0\Prueba3.0\Prueba3.0\obj\Debug\net6.0-windows\ref\Prueba3.0.dll
